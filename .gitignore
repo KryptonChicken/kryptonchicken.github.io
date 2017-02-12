@@ -1,0 +1,13 @@
+.git
+.snv
+.bak
+.log
+
+node_modules/
+_site/
+.sass-cache/
+.jekyll-metadata
+
+!.gitignore
+!.editorconfig
+
