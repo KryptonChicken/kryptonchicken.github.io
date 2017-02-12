@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: Krypton Chicken
+description: Krypton Chicken's website | blog posts
+
+encoding: "utf-8"
+baseurl: ""
