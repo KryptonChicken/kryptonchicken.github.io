@@ -4,7 +4,7 @@ Krypton Chicken is an organisation created by the grand prize winners of
 [Google Code-in 2016](https://developers.google.com/open-source/gci/).
 
 ## Projects
-(coming soon)
+- Blog posts at kryptonchicken.github.io
 
 ## Members
 
@@ -25,4 +25,3 @@ Krypton Chicken is an organisation created by the grand prize winners of
 | Mira Yang | B |
 | Alex Bratosin | B |
 | Tommy Ip | B |
-

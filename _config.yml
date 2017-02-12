@@ -5,3 +5,5 @@ description: Krypton Chicken's website | blog posts
 
 encoding: "utf-8"
 baseurl: ""
+
+permalink: /:year/:month/:title/
