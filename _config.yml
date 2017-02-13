@@ -1,9 +1,15 @@
 theme: jekyll-theme-cayman
 
 title: Krypton Chicken
-description: Krypton Chicken's website | blog posts
+tagline: Krypton Chicken's website | blog posts
+
+author:
+    name: Tommy Ip
+    url: https://github.com/tommyip
 
 encoding: "utf-8"
 baseurl: ""
-
 permalink: /:year/:month/:title/
+markdown: kramdown
+gems:
+    - jekyll-paginate

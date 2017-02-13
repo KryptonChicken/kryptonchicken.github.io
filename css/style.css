@@ -1,0 +1,16 @@
+#page-header {
+    color: white;
+    text-decoration: none;
+}
+
+a.active {
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2em;
+}

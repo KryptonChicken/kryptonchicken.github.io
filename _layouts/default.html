@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body>
+
+  {% include page-header.html %}
+
+  <section class="main-content">
+
+    <div class="navbar">
+      {% assign pages = site.html_pages | sort: "navbar_order" %}
+      {% for p in pages %}
+        <a href="{{ p.url }}" {% if p.url == page.url %}class="active" {% endif %}>
+          {{ p.title }}
+        </a>
+      {% endfor %}
+    </div>
+
+    {{ content }} {% include page-footer.html %}
+
+  </section>
+
+</body>
+
+</html>
