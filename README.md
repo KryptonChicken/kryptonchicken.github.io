@@ -19,6 +19,7 @@ Visit us at [kryptonchicken.github.io][link].
 | Oana Roșca | A |
 | Kaisar Arkhan (Yuki) | A |
 | Daniel Hsing | A |
+| Anshuman Agarwal | A |
 | |
 | Evgeny Shulgin | B |
 | Sergey Popov | B |
