@@ -36,6 +36,8 @@ Visit us at [kryptonchicken.github.io][link].
 | Collin Grimm | B | OpenMRS |
 | Mira Yang | B | OpenMRS |
 | Joshua Pan | B | Copyleft Games Group |
+| Shardul Chiplunkar | B | Apertium |
+| Matthew Marting | B | Apertium |
 
 [link]: https://kryptonchicken.github.io/
 [circleci_link]: https://circleci.com/gh/KryptonChicken/kryptonchicken.github.io
