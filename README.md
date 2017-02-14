@@ -43,6 +43,8 @@ Visit us at [kryptonchicken.github.io][link].
 | Shriank Kanaparti | B | Copyleft Games Group |
 | Shardul Chiplunkar | B | Apertium |
 | Matthew Marting | B | Apertium |
+| Raefaldhi Amartya Junior | B | Haiku |
+| Vanisha Kesswani | B | Haiku |
 
 [link]: https://kryptonchicken.github.io/
 [circleci_link]: https://circleci.com/gh/KryptonChicken/kryptonchicken.github.io
