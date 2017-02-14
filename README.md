@@ -23,7 +23,9 @@ Visit us at [kryptonchicken.github.io][link].
 | Daniel Hsing | A | MetaBrainz |
 | Anshuman Agarwal | A | MetaBrainz |
 | Cristian Garcia | A | Sugar Labs |
+| Tymon Radzik | A | Sugar Labs |
 | Dhruv Shrivastava | A | Mifos |
+| Sawan Kumar | A | Mifos |
 | |
 | Evgeny Shulgin | B | CCExtractor |
 | Alexandru Bratosin | B | CCExtractor |
@@ -36,6 +38,7 @@ Visit us at [kryptonchicken.github.io][link].
 | Collin Grimm | B | OpenMRS |
 | Mira Yang | B | OpenMRS |
 | Joshua Pan | B | Copyleft Games Group |
+| Shriank Kanaparti | B | Copyleft Games Group |
 
 [link]: https://kryptonchicken.github.io/
 [circleci_link]: https://circleci.com/gh/KryptonChicken/kryptonchicken.github.io
