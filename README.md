@@ -26,6 +26,8 @@ Visit us at [kryptonchicken.github.io][link].
 | Tymon Radzik | A | Sugar Labs |
 | Dhruv Shrivastava | A | Mifos |
 | Sawan Kumar | A | Mifos |
+| Jacqueline Bronger | A | Systers |
+| Soham Sen | A | Systers |
 | |
 | Evgeny Shulgin | B | CCExtractor |
 | Alexandru Bratosin | B | CCExtractor |
