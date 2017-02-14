@@ -29,6 +29,7 @@ Visit us at [kryptonchicken.github.io][link].
 | Mira Yang | B |
 | Alex Bratosin | B |
 | Tommy Ip | B |
+| Joshua Pan | B |
 
 [link]: https://kryptonchicken.github.io/
 [circleci_link]: https://circleci.com/gh/KryptonChicken/kryptonchicken.github.io
