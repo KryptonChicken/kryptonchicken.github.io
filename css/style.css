@@ -14,3 +14,35 @@ a:hover {
 h1 {
     font-size: 2em;
 }
+
+.tags {
+    list-style: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+.tags li {
+    float: left;
+}
+
+.tag {
+    background: #eee;
+    border-radius: 3px;
+    color: #606c71;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 12px 0 12px;
+    position: relative;
+    margin: 0 10px 10px 0;
+    text-decoration: none;
+    -webkit-transition: color 0.5s;
+}
+
+/* Un-comment this when implementing a page with filtered blog posts.
+.tag:hover {
+    background-color: #E91E63;
+    color: white;
+}
+*/
