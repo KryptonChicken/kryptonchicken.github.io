@@ -3,6 +3,7 @@ layout: post
 title: "Hello, World!"
 date: 2017-02-12 15:36
 author: tommy_ip
+comments: true
 description: "Why did we call ourselves the Krypton Chicken?"
 ---
 
