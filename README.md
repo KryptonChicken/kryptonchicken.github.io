@@ -23,6 +23,7 @@ Visit us at [kryptonchicken.github.io][link].
 | Daniel Hsing | A | MetaBrainz |
 | Anshuman Agarwal | A | MetaBrainz |
 | Cristian Garcia | A | Sugar Labs |
+| Dhruv Shrivastava | A | Mifos |
 | |
 | Evgeny Shulgin | B | CCExtractor |
 | Alexandru Bratosin | B | CCExtractor |
