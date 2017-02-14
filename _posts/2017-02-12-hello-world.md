@@ -3,6 +3,7 @@ layout: post
 title: "Hello, World!"
 date: 2017-02-12 15:36
 author: tommy_ip
+description: "Why did we call ourselves the Krypton Chicken?"
 ---
 
 __*So why call ourselves "Krypton Chicken"?*__ We (the GCI 2016 winners) were

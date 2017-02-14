@@ -2,6 +2,10 @@ theme: jekyll-theme-cayman
 
 title: Krypton Chicken
 tagline: Krypton Chicken's website | blog posts
+description:
+    Krypton Chicken is an organization created by the grand prize winners of
+    Google Code-in 2016. This blog contains our experiences surrounding Google
+    Code-In 2016.
 
 author:
     name: Tommy Ip

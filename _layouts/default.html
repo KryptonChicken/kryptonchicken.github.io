@@ -12,7 +12,7 @@
     <div class="navbar">
       {% assign pages = site.html_pages | sort: "navbar_order" %}
       {% for p in pages %}
-        <a href="{{ p.url }}" {% if p.url == page.url %}class="active" {% endif %}>
+        <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
           {{ p.title }}
         </a>
       {% endfor %}

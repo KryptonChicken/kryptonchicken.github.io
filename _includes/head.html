@@ -1,8 +1,14 @@
+{% if page.description %}
+  {% assign description = page.description %}
+{% else %}
+  {% assign description = site.description %}
+{% endif %}
+
 <head>
   <meta charset="UTF-8">
   <title>{{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  <meta name="description" content="{{ description }}">
   <meta name="theme-color" content="#157878">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
