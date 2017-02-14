@@ -22,6 +22,7 @@ Visit us at [kryptonchicken.github.io][link].
 | Kaisar Arkhan (Yuki) | A | FOSSASIA |
 | Daniel Hsing | A | MetaBrainz |
 | Anshuman Agarwal | A | MetaBrainz |
+| Cristian Garcia | A | Sugar Labs |
 | |
 | Evgeny Shulgin | B | CCExtractor |
 | Alexandru Bratosin | B | CCExtractor |
@@ -33,6 +34,7 @@ Visit us at [kryptonchicken.github.io][link].
 | Dhanat Satta-awalo | B | Drupal |
 | Collin Grimm | B | OpenMRS |
 | Mira Yang | B | OpenMRS |
+| Joshua Pan | B | Copyleft Games Group |
 
 [link]: https://kryptonchicken.github.io/
 [circleci_link]: https://circleci.com/gh/KryptonChicken/kryptonchicken.github.io
