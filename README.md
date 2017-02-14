@@ -12,25 +12,29 @@ Visit us at [kryptonchicken.github.io][link].
 
 ## Members
 
-| Name | Category |
-|-------|---------|
-| Deniz Karakay | A |
-| Scott Moses | A |
-| Oana Roșca | A |
-| Kaisar Arkhan (Yuki) | A |
-| Daniel Hsing | A |
-| Cristian García | A |
+| Name | Trip | Organization |
+|-------|---------|-------------|
+| Deniz Karakay | A | SCoRe |
+| August van de Ven | A | SCoRe |
+| Scott Moses | A | MovingBlocks |
+| Isaac Ong | A | MovingBlocks |
+| Oana Roșca | A | FOSSASIA |
+| Kaisar Arkhan (Yuki) | A | FOSSASIA |
+| Daniel Hsing | A | MetaBrainz |
+| Anshuman Agarwal | A | MetaBrainz |
+| Cristian Garcia | A | Sugar Labs |
 | |
-| Evgeny Shulgin | B |
-| Sergey Popov | B |
-| Sampriti Panda | B |
-| Utkarsh Dixit | B |
-| Ilya Bizyaev | B |
-| Collin Grimm | B |
-| Mira Yang | B |
-| Alex Bratosin | B |
-| Tommy Ip | B |
-| Joshua Pan | B |
+| Evgeny Shulgin | B | CCExtractor |
+| Alexandru Bratosin | B | CCExtractor |
+| Sergey Popov | B | KDE |
+| Ilya Bizyaev | B | KDE |
+| Sampriti Panda | B | Zulip |
+| Tommy Ip | B | Zulip |
+| Utkarsh Dixit | B | Drupal |
+| Dhanat Satta-awalo | B | Drupal |
+| Collin Grimm | B | OpenMRS |
+| Mira Yang | B | OpenMRS |
+| Joshua Pan | B | Copyleft Games Group |
 
 [link]: https://kryptonchicken.github.io/
 [circleci_link]: https://circleci.com/gh/KryptonChicken/kryptonchicken.github.io
