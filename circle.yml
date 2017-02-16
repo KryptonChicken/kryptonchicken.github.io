@@ -9,3 +9,7 @@ dependencies:
 test:
     post:
         - bundle exec htmlproofer ./_site --check-html --disable-external
+
+notify:
+    webhooks:
+        - url: https://webhooks.gitter.im/e/7ce55005d70c74dfc972
