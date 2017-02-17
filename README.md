@@ -47,6 +47,8 @@ Visit us at [kryptonchicken.github.io][link].
 | Matthew Marting | B | Apertium |
 | Raefaldhi Amartya Junior | B | Haiku |
 | Vanisha Kesswani | B | Haiku |
+| Michal Hanus | B | BRL-CAD |
+| Sudhanshu Agarwal | B | BRL-CAD |
 
 [link]: https://kryptonchicken.github.io/
 [circleci_link]: https://circleci.com/gh/KryptonChicken/kryptonchicken.github.io
