@@ -15,6 +15,10 @@ h1 {
     font-size: 2em;
 }
 
+#show-filter {
+    margin-top: 16px;
+}
+
 .tags {
     list-style: none;
     margin: 0;
@@ -37,12 +41,10 @@ h1 {
     position: relative;
     margin: 0 10px 10px 0;
     text-decoration: none;
-    -webkit-transition: color 0.5s;
+    -webkit-transition: color 0.2s;
 }
 
-/* Un-comment this when implementing a page with filtered blog posts.
 .tag:hover {
-    background-color: #E91E63;
+    background-color: #009688;
     color: white;
 }
-*/

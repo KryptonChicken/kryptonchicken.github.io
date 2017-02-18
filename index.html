@@ -6,13 +6,45 @@ navbar_order: 1
 
 <h1>Blog posts</h1>
 
-<ul class="posts">
-    {% for post in site.posts %}
-    <li>
-        <span>{{ post.date | date_to_string }}</span> &raquo;
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-        </a>
-    </li>
-    {% endfor %}
+<h3 id="show-filter"></h3>
+<ul>
+  {% for post in site.posts %}
+  <li data-tags='{{ post.tags | jsonify }}' class="post-item">
+    <span>{{ post.date | date_to_string }}</span> &raquo;
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </li>
+  {% endfor %}
 </ul>
+
+<script>
+    function get_filter_tag() {
+        var re = new RegExp("[?&]tag=([^&#]*)");
+        var re_result = re.exec(window.location.href);
+
+        return re_result ? re_result[1] : null;
+    }
+
+    var filter_heading = document.getElementById("show-filter");
+    filter_heading.style.display = "none";
+
+    var filter_tag = get_filter_tag();
+
+    if (filter_tag) {
+        filter_heading.innerHTML = "Posts tagged with <code>" + filter_tag + "</code>:";
+        filter_heading.style.display = "block";
+
+        var posts = document.querySelectorAll("[data-tags]");
+
+        for (var i = 0; i < posts.length; i++) {
+            var post = posts[i];
+
+            if (JSON.parse(post.dataset.tags).indexOf(filter_tag) === -1) {
+                post.parentNode.removeChild(post);
+            }
+        }
+    }
+
+    // TODO: Handle no search result.
+</script>

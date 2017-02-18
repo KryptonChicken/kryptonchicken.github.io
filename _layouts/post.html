@@ -18,9 +18,11 @@ layout: default
 
 <ul class="tags">
   {% for tag in page.tags %}
-    <li class="tag">
-      <i>{{ tag }}</i>
-    </li>
+    <a href="{{ site.baseurl }}/?tag={{ tag }}">
+      <li class="tag">
+        <i>{{ tag }}</i>
+      </li>
+    </a>
   {% endfor %}
 </ul>
 

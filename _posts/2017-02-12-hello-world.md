@@ -4,7 +4,9 @@ title: "Hello, World!"
 date: 2017-02-12
 author: tommy_ip
 description: Why did we call ourselves the Krypton Chicken?
-tags: [general, KryptonChicken]
+tags:
+    - general
+    - KryptonChicken
 comments: true
 ---
 
