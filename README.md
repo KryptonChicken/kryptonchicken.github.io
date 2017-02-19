@@ -6,14 +6,12 @@ Krypton Chicken is an organization created by the 34 grand prize winners of
 [Google Code-in 2016](https://developers.google.com/open-source/gci/).
 This repository contains our website and blog posts.
 
-Visit us at [kryptonchicken.github.io][link].
-
 ## Active projects
 
-- Blog
+- Blog: [kryptonchicken.github.io][link]
 - Mondrian encoding
-- DLNA DMC
-- 2D platformer with procedural generated map
+- Kast
+- Soundzcape: [KryptonChicken/soundzcape]
 
 ## Members
 
@@ -58,3 +56,4 @@ Sudhanshu Agarwal        | B    | BRL-CAD
 [build_status]: https://circleci.com/gh/KryptonChicken/kryptonchicken.github.io.svg?style=svg
 [circleci_link]: https://circleci.com/gh/KryptonChicken/kryptonchicken.github.io
 [link]: https://kryptonchicken.github.io/
+[KryptonChicken/soundzcape]: https://github.com/KryptonChicken/soundzcape
