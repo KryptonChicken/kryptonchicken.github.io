@@ -33,7 +33,6 @@ Jacqueline Bronger       | A    | Systers
 Soham Sen                | A    | Systers
 Filip Grzywok            | A    | Wikimedia
 Justin Du                | A    | Wikimedia
-                         |      |
 Evgeny Shulgin           | B    | CCExtractor
 Alexandru Bratosin       | B    | CCExtractor
 Sergey Popov             | B    | KDE
