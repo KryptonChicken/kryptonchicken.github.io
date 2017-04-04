@@ -1,0 +1,616 @@
+{
+    "winners": [
+        {
+            "GCI_ID": 6539615380963328,
+            "country": "United States",
+            "description": "",
+            "full_name": "Matthew Marting",
+            "organization": "Apertium",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 17,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 6143873000669184,
+            "country": "United States",
+            "description": "A math, classical music, linguistics, and computer science enthusiast",
+            "full_name": "Shardul Chiplunkar",
+            "organization": "Apertium",
+            "social": [
+                {
+                    "facebook": "Shardul Chiplunkar",
+                    "github": "shardulc",
+                    "telegram": "shardulc",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 16,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 5154244889935872,
+            "country": "Czech Republic",
+            "description": "",
+            "full_name": "Michal Hanus",
+            "organization": "BRL-CAD",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 34,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 5363803860500480,
+            "country": "India",
+            "description": "",
+            "full_name": "Sudhanshu Agarwal",
+            "organization": "BRL-CAD",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 29,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 6518026123870208,
+            "country": "Romania",
+            "description": "",
+            "full_name": "Alexandru Bratosin",
+            "organization": "CCExtractor Development",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 12,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 6432612176363520,
+            "country": "Russian Federation",
+            "description": "",
+            "full_name": "Evgeny Shulgin",
+            "organization": "CCExtractor Development",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 27,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 5614606737211392,
+            "country": "United States",
+            "description": "",
+            "full_name": "Joshua Pan",
+            "organization": "Copyleft Games Group",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 24,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 5255906832941056,
+            "country": "India",
+            "description": "",
+            "full_name": "Shriank Kanaparti",
+            "organization": "Copyleft Games Group",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 9,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 5806889128427520,
+            "country": "Thailand",
+            "description": "Novice Developer",
+            "full_name": "Dhanat Satta-awalo",
+            "organization": "Drupal",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "ThewDhanat",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 21,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 4525640992686080,
+            "country": "India",
+            "description": "",
+            "full_name": "Utkarsh Dixit",
+            "organization": "Drupal",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 24,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 4919748802379776,
+            "country": "Indonesia",
+            "description": "",
+            "full_name": "Kaisar Arkhan",
+            "organization": "FOSSASIA",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 33,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 6110730013114368,
+            "country": "Romania",
+            "description": "",
+            "full_name": "Oana Ro\u015fca",
+            "organization": "FOSSASIA",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 31,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 6030846372872192,
+            "country": "Indonesia",
+            "description": "",
+            "full_name": "Raefaldhi Amartya Junior",
+            "organization": "Haiku",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 20,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 5941541661048832,
+            "country": "India",
+            "description": "",
+            "full_name": "Vanisha Kesswani",
+            "organization": "Haiku",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 36,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 5705405835509760,
+            "country": "Russian Federation",
+            "description": "",
+            "full_name": "Ilya Bizyaev",
+            "organization": "KDE",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 21,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 5872771980591104,
+            "country": "Russian Federation",
+            "description": "",
+            "full_name": "Sergey Popov",
+            "organization": "KDE",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 20,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 4882362722680832,
+            "country": "India",
+            "description": "",
+            "full_name": "Anshuman Agarwal",
+            "organization": "MetaBrainz",
+            "social": [
+                {
+                    "facebook": "AgarwalAnshuman73",
+                    "github": "anshuman73",
+                    "telegram": "Anshuman73",
+                    "twitter": "",
+                    "website": "https://anshuman73.github.io/"
+                }
+            ],
+            "tasks_completed": 14,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 5429388883525632,
+            "country": "Hong Kong",
+            "description": "",
+            "full_name": "Daniel Hsing",
+            "organization": "MetaBrainz",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 15,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 6506577955651584,
+            "country": "India",
+            "description": "",
+            "full_name": "Dhruv Shrivastava",
+            "organization": "Mifos",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 23,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 5987338125574144,
+            "country": "India",
+            "description": "",
+            "full_name": "Sawan Kumar",
+            "organization": "Mifos",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 31,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 5722547446349824,
+            "country": "Singapore",
+            "description": "",
+            "full_name": "Ong Jia Wei, Isaac",
+            "organization": "Moving Blocks",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 34,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 4920797585997824,
+            "country": "Indonesia",
+            "description": "",
+            "full_name": "Scott Moses Sunarto",
+            "organization": "Moving Blocks",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 42,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 5723640247091200,
+            "country": "United States",
+            "description": "",
+            "full_name": "Mira Yang",
+            "organization": "OpenMRS",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 20,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 5122561251737600,
+            "country": "Cameroon",
+            "description": "Open Source developer",
+            "full_name": "Nji Collins",
+            "organization": "OpenMRS",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "collinsnji",
+                    "telegram": "CollinGrimm",
+                    "twitter": "",
+                    "website": "http://collingrimm.me"
+                }
+            ],
+            "tasks_completed": 20,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 5468636496003072,
+            "country": "Uruguay",
+            "description": "",
+            "full_name": "Cristian Garc\u00eda",
+            "organization": "Sugar Labs",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 29,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 5009619181109248,
+            "country": "Poland",
+            "description": "",
+            "full_name": "Tymon Radzik",
+            "organization": "Sugar Labs",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 32,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 4799778688860160,
+            "country": "Netherlands",
+            "description": "",
+            "full_name": "August van de Ven",
+            "organization": "SCoRe",
+            "social": [
+                {
+                    "facebook": "august.vandeven",
+                    "github": "Augustvdv",
+                    "telegram": "augustvdv",
+                    "twitter": "Augustvdven",
+                    "website": "http://augustvandeven.nl/"
+                }
+            ],
+            "tasks_completed": 19,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 4975067712716800,
+            "country": "Turkey",
+            "description": "",
+            "full_name": "Deniz Karakay",
+            "organization": "SCoRe",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 26,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 5343521951186944,
+            "country": "Germany",
+            "description": "",
+            "full_name": "Jacqueline Bronger",
+            "organization": "Systers",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 16,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 5227484758933504,
+            "country": "India",
+            "description": "",
+            "full_name": "Soham Sen",
+            "organization": "Systers",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 19,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 6592390798245888,
+            "country": "Poland",
+            "description": "",
+            "full_name": "Filip Grzywok",
+            "organization": "Wikimedia",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 68,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 5798306911354880,
+            "country": "United States",
+            "description": "",
+            "full_name": "Justin Du",
+            "organization": "Wikimedia",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 73,
+            "trip": "A"
+        },
+        {
+            "GCI_ID": 6371480497553408,
+            "country": "India",
+            "description": "",
+            "full_name": "Sampriti Panda",
+            "organization": "Zulip",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": ""
+                }
+            ],
+            "tasks_completed": 21,
+            "trip": "B"
+        },
+        {
+            "GCI_ID": 4930131147620352,
+            "country": "United Kingdom",
+            "description": "Almost full-stack developer",
+            "full_name": "Tommy Ip",
+            "organization": "Zulip",
+            "social": [
+                {
+                    "facebook": "",
+                    "github": "tommyip",
+                    "telegram": "",
+                    "twitter": "",
+                    "website": "http://tommyip.me"
+                }
+            ],
+            "tasks_completed": 23,
+            "trip": "B"
+        }
+    ]
+}
